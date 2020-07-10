@@ -1,0 +1,3 @@
+# shortcut
+
+![](../assets/shortcuo.PNG)

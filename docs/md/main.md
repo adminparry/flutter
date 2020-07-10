@@ -34,3 +34,5 @@ class App extends StatelessWidget {
   }
 }
 ```
+> 根组件必须是个materialapp
+

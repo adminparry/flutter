@@ -18,3 +18,17 @@ https://pub.flutter-io.cn/
 > dio
 
 网络工具
+
+> url_launcher 
+
+资源读取
+
+> shared_preferences 
+
+> cached_network_image 
+
+> webview_flutter 
+
+> permission_handler
+ 
+> geolocator 
